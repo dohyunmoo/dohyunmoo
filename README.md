@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **d6moon@uwaterloo.ca**
 
-- ⚡ Fun fact **I love Mix Martial Arts**
+- ⚡ Fun fact: **I love Mix Martial Arts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
