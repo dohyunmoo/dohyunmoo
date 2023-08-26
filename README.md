@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dohyun Moon</h1>
 <h3 align="center">A passionate software developer from Canada!</h3>
 
-- 🔭 I’m currently working on **Bets Outcome Generator**
-
 - 🌱 I’m currently learning about **life**
 
 - 💬 Ask me about **anything :)**
