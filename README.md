@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dohyun Moon</h1>
-<h3 align="center">A passionate software developer from Canada!</h3>
 
 - 🌱 I’m currently learning about **life**
 
