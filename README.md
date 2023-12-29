@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dohyun Moon</h1>
 
-- 🌱 I’m currently learning about **life**
-
 - 💬 Ask me about **anything :)**
 
 - 📫 How to reach me **d6moon@uwaterloo.ca**
-
-- ⚡ Fun fact: **I love Mix Martial Arts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
