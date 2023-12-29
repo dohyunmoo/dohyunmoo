@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dohyun Moon</h1>
 
+- 😎 4B Computer Engineering Student @ University of Waterloo
+
 - 💬 Ask me about **anything :)**
 
 - 📫 How to reach me **d6moon@uwaterloo.ca**
