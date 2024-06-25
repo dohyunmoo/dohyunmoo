@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dohyun Moon</h1>
 
-- 😎 4B Computer Engineering Student @ University of Waterloo
+- 😎 B.A.Sc. Computer Engineering @ University of Waterloo
 
 - 💬 Ask me about **anything :)**
 
-- 📫 How to reach me **d6moon@uwaterloo.ca**
+- 📫 How to reach me **dohyundoor@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
